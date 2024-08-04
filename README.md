@@ -1,6 +1,6 @@
-# Playground Template
+# Open Markdown
 
-A comprehensive playground template for building rich-text editors with [Plate](https://platejs.org/) and Next.js 14.
+An online markdown sharing platform template for building rich-text editors with [Plate](https://platejs.org/) and Next.js 14.
 
 ## Usage
 
